@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942870063102",
+    "project_id": "pointingpoker-365815",
+    "storage_bucket": "pointingpoker-365815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942870063102:android:606cb275bafeea828202af",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942870063102-fg67du9dkgrts0r97i7mvbn7pcrv7ubr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6brdJJaJZCP1-2qV7Hx5AdJ0dU5h4-ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942870063102-fg67du9dkgrts0r97i7mvbn7pcrv7ubr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
